@@ -1,4 +1,6 @@
-Title: getting started
+---
+Layout: post
+Title: "Welcome to my space"
 Description: 
 trying to get a hang on it
 step by step i shall get there
